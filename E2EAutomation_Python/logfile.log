@@ -1,0 +1,6 @@
+2022-01-12 09:44:51,385 :WARNING :test_addtocart :There is some warning
+2022-01-12 09:44:51,386 :CRITICAL :test_addtocart :There is a critical error
+2022-01-12 09:45:39,348 :WARNING :test_captureReviews :There is some warning
+2022-01-12 09:45:39,349 :CRITICAL :test_captureReviews :There is a critical error
+2022-01-12 09:46:00,308 :WARNING :test_Login :There is some warning
+2022-01-12 09:46:00,308 :CRITICAL :test_Login :There is a critical error

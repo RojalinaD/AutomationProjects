@@ -1,0 +1,16 @@
+2022-01-12 09:24:43,354 :WARNING :test_Login :There is some warning
+2022-01-12 09:24:43,354 :CRITICAL :test_Login :There is a critical error
+2022-01-12 09:30:38,958 :WARNING :test_Login :There is some warning
+2022-01-12 09:30:38,959 :CRITICAL :test_Login :There is a critical error
+2022-01-12 09:31:57,137 :WARNING :test_Login :There is some warning
+2022-01-12 09:31:57,138 :CRITICAL :test_Login :There is a critical error
+2022-01-12 09:40:15,775 :WARNING :test_Login :There is some warning
+2022-01-12 09:40:15,776 :CRITICAL :test_Login :There is a critical error
+2022-01-12 10:10:26,923 :WARNING :test_Login :There is some warning
+2022-01-12 10:10:26,923 :CRITICAL :test_Login :There is a critical error
+2022-01-12 10:13:13,279 :WARNING :test_signIn :There is some warning
+2022-01-12 10:13:13,279 :CRITICAL :test_signIn :There is a critical error
+2022-01-12 10:17:36,219 :WARNING :test_captureReviews :There is some warning
+2022-01-12 10:17:36,219 :CRITICAL :test_captureReviews :There is a critical error
+2022-01-12 10:20:44,050 :WARNING :test_Login :There is some warning
+2022-01-12 10:20:44,050 :CRITICAL :test_Login :There is a critical error
